@@ -19,11 +19,13 @@ search: true
 
 # Introduction
 
-Welcome to the Kittn API! You can use our API to access Kittn API endpoints, which can get information on various cats, kittens, and breeds in our database.
+The Earmark API is organized around REST. Our API has predictable resource-oriented URLs, accepts form-encoded request bodies, returns JSON-encoded responses, and uses standard HTTP response codes, authentication, and verbs.
 
-We have language bindings in Shell, Ruby, Python, and JavaScript! You can view code examples in the dark area to the right, and you can switch the programming language of the examples with the tabs in the top right.
+You can use the Earmark API in test mode, which does not affect your live data. The API key you use to authenticate the request determines whether the request is live mode or test mode.
 
-This example API documentation page was created with [Slate](https://github.com/lord/slate). Feel free to edit it and use it as a base for your own API's documentation.
+The Earmark API differs for every account as we release new versions and tailor functionality. Log in to see docs customized to your version of the API, with your test key and data.
+
+Subscribe to Earmark's API announce mailing list for updates.
 
 # Authentication
 
